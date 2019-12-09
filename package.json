@@ -1,0 +1,8 @@
+{
+  "name": "js-a7us8v",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pdf-lib": "^1.2.1"
+  }
+}
